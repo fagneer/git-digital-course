@@ -5,3 +5,5 @@
 * uso do comando restore | 
 git restore README.md
 git restore --staged README.md
+
+* comando git push
