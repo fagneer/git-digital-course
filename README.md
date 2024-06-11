@@ -7,3 +7,5 @@
 * git restore --staged README.md
 
 ### comando git push
+
+## comando git pull 
